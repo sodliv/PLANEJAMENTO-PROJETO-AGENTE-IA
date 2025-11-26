@@ -1,0 +1,34 @@
+SISTEMA PARA LANÇAMENTO DE ATESTADO:
+
+FLUXO 1 (COM SITE):
+-> AGENTE DETECTA INTERESSE EM ENVIO DE ATESTADO E REDIRECIONA PARA O SITE DE CADASTRO DE ATESTADOS
+	-> COLABORADOR ENVIA SEU ATESTADO PELO FORMULÁRIO DO SITE COM SUAS RESPECTIVAS INFORMAÇÕES
+		-> INFORMAÇÕES SÃO PLANILHADAS, ANEXO É SALVO EM NUVEM
+		E FICA O ANEXO ALI PARA ARQUIVAMENTO DIGITAL VIA FUNCIONARIO
+
+FLUXO 2 (SEM SITE):
+-> AGENTE DETECTA INTERESSE EM ENVIO DE ATESTADO E PEDE ANEXO
+	-> AGENTE VALIDA SE É ATESTADO. SE SIM, ENVIA ANEXO PARA NUVEM ARQUIVANDO DE ACORDO COM NOME DO
+	COLABORADOR, E...
+		-> CONTINUA O ATENDIMENTO PERGUNTANDO AO COLABORADOR AS INFORMAÇÕES DO ATESTADO
+			-> TODAS SÃO PLANILHADAS
+
+
+SISTEMA PARA ATENDIMENTO DE DÚVIDAS:
+
+-> Prompt apropriado para responder todas as dúvidas:
+
+1) O que são horas tratadas na folha de pagamento?
+	= Foram os lançamentos ref., os atestados; Entram como horas tratadas p/ abono na sua folha de pagamento.
+
+2) Pode desativar o meu cartão transporte?
+	= Ok, só preciso que passe aqui no RH, p/ assinar o documento ref., o cancelamento.
+
+3) Quando cai o crédito do Cartao-Vale Alimentacao?
+	- O credito do VA (Vale Alimentacao) cai todo dia 08 do mês.
+
+4) Gostaria de saber se vocês estão com vagas em aberto? / Vocês tem vaga? / Vocês estão contratando? / 
+	- Em relação ao nosso processo de contratação, ele é conduzido por meio de uma consultoria especializada a Agnes. Para verificar as oportunidades disponíveis, você pode entrar em contato diretamente com eles ou acessar nosso site, onde também divulgamos as vagas abertas.
+	Segue o nosso link:
+	https://ats.abler.com.br/jobs/bundy?slug=analista-fiscal-junior-21513#about
+
